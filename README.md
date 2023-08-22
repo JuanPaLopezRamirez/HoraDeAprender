@@ -26,6 +26,10 @@ algunos temas no se vean porque son muy basicos.
 Para aprender python me apoye en los videos de "MoureDev by Brais Moure"
 un canal en youtube muy recomendado y tambien me apoye en documentacion y paginas.
 
+enlaces:
+https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=1&pp=iAQB
+https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=4
+
 
 2. JavaScript y Node(JavaScript del lado del servidor):
 

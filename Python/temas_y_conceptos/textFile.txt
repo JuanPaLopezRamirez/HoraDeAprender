@@ -1,0 +1,11 @@
+Hola estoy escribiendo desde el archivo manejo_ficheros.pyMi nombre es Juan Pablo
+Mis apellidos son Lopez Ramirez
+tengo 23
+vivo en el pais de Colombia
+naci en Pereira
+Mi nombre es Juan Pablo
+Mis apellidos son Lopez Ramirez
+tengo 23
+vivo en el pais de Colombia
+naci en Pereira
+Vamos Depor
